@@ -1,13 +1,13 @@
          body {
        font-family: 'Montserrat', sans-serif;
-       background-color: #a5a7ae; }
+       background-color: #d6d9e2; }
                                     
     .My-container {
       
        display: flex;
        flex-direction: row-reverse;
        width: 1200px;
-       background-color: white;
+       background-color: rgba(253, 253, 253, 0.556);
        margin: 40px auto;
        box-shadow: 6px 6px 20px rgb (0 0 0 0.1);
      }
@@ -93,7 +93,7 @@
     }
     /* /*MY WORK EXPERIENCE */
     .My-Work-Experience-Company {
-        color: #FB6D3A
+        color:#3ca715;
     }
                                     
     .My-Work-Experience-pozition {
@@ -137,7 +137,7 @@
     /* MY EDUCATION SECTION*/
                                     
     .My-Education-school {
-        color: #FB6D3A;
+        color: #3ca715;
         font-style: normal;
         font-weight: bold;
         font-size: 16px;
@@ -163,17 +163,12 @@
         margin-bottom: 15px 0 15px 0;
     }
     
-    .My-photo {
-        width: 370px;
-        height: 400px;
-        top: 80px;
-        left: 40;
-    }
+  
     
     .Sidebar-section {
         background-color: #1e2939;
         width: 370px;
-        padding: 40px 0px;
+       
     }
     
     .Sidebar-title {
@@ -219,7 +214,7 @@
     }
     
     .Tech-skills-item {
-        color: #FB6D3A;
+        color: #3ca715;
     }
     
     .Tech-skills-text {
@@ -244,7 +239,7 @@
     }
     
     .Soft-skills-item {
-        color: #FB6D3A;
+        color: #3ca715;
     }
     
     .Soft-skills-text {
